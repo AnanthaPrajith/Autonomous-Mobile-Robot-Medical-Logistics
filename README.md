@@ -1,8 +1,12 @@
 # Autonomous-Mobile-Robot-Medical-Logistics
 <b>Objectives</b>
+
 To design an Autonomous mobile robot that can be operated in a sterile condition through UV sterilization in medical sectors.
+
 To design localization, mapping and obstacle avoidance system through ROS.
+
 To develop a backend program to initiate Robot control 
+
 To design casing for transporting vaccines , serums , blood samples in a controlled environment including temperature and UV lighting.
 
 ![image](https://user-images.githubusercontent.com/70406505/216823599-909638ce-8c0a-494d-9055-bfeb4fa2c059.png)
